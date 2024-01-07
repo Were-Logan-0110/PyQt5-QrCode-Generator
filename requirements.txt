@@ -1,0 +1,9 @@
+PyQt5
+pywin32
+qtutils
+requests
+bs4
+qtpy
+qrcode
+pillow
+nuitka
